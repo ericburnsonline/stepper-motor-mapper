@@ -1,0 +1,19 @@
+# Arduino build artifacts
+*.hex
+*.elf
+*.eep
+*.o
+build/
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDE / editor files
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# Arduino IDE temp/cache
+*.tmp
+*~
