@@ -37,12 +37,12 @@ Full wiring details and a Fritzing diagram will be added once the build is teste
 1. Install the Arduino IDE.
 2. Install these libraries via the Library Manager: `Adafruit ADS1X15`, `Adafruit SSD1306`, `Adafruit GFX Library`.
 3. Wire up the hardware (diagram coming soon).
-4. Upload `stepper_tester.ino`.
+4. Upload `stepper_motor_mapper.ino`.
 5. Open the Serial Monitor at 9600 baud, connect a motor, and send any character to start a scan.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT - see [LICENSE](LICENSE).
 
 ## Related
 
